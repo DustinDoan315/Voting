@@ -19,7 +19,7 @@ A decentralized voting system implemented as a Solidity smart contract using Har
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/DustinDoan315/Voting
 cd voting-contract
 ```
 
